@@ -1,14 +1,17 @@
-# dhanraj_jewellers
+# Dhanraj Jewellers 
 
-A basic Jewellery Shop App
+A work in progress........................
+
+#A basic Jewellery Shop App
 
 #Screenshots
 
-![Screenshot_2023-01-22-23-12-24-682_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935342-6a51fb43-2627-4cf6-a919-c27dc1e7282e.jpg)
-![Screenshot_2023-01-23-00-36-29-849_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935346-fae49e28-99cc-4c5c-83fe-596cc59e1050.jpg)
-![Screenshot_2023-01-23-00-36-47-286_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935347-3d80e6bb-91c1-46cd-8d48-74a25ac9d45a.jpg)
-![Screenshot_2023-01-23-00-37-05-130_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935348-eae2bb50-57eb-4dac-b749-c12a8cb13879.jpg)
-![Screenshot_2023-01-23-00-37-09-589_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935350-048511be-9faf-4099-9d1d-464c408ad5fb.jpg)
-![Screenshot_2023-01-23-00-37-31-096_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935351-bca00f96-b773-4b18-a1f2-64da7c5aef46.jpg)
-![Screenshot_2023-01-23-00-37-37-185_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935354-a2d1ddb1-0d1d-4d9f-94c8-677e36d25479.jpg)
-![Screenshot_2023-01-23-00-37-40-074_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935356-14460ea0-e75e-4e0e-983b-3845a6619e00.jpg)
+
+![Screenshot_2023-01-23-00-37-09-589_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935434-bf00497c-2c6b-4a51-8ef4-32776ab7e579.jpg)
+![Screenshot_2023-01-23-00-37-31-096_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935436-1a8e5e6a-1f79-4820-a16f-301fb4a57a86.jpg)
+![Screenshot_2023-01-23-00-37-37-185_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935438-44bcd1ea-8629-4a0c-aa92-230860f65d7e.jpg)
+![Screenshot_2023-01-23-00-37-40-074_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935439-3c872528-365d-4312-b44b-7bcfc30ca3a6.jpg)
+5424-f5fa96ae-ac3f-4b6f-83f7-2c5e5778de00.jpg)
+![Screenshot_2023-01-23-00-36-29-849_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935428-73b9d878-b164-432d-b7a5-9f0ab50cf664.jpg)
+![Screenshot_2023-01-23-00-36-47-286_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935430-333e6e3a-1a32-4583-a0d4-7b116d65231e.jpg)
+![Screenshot_2023-01-23-00-37-05-130_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935433-2153f938-3fff-427b-bd0f-a923cdea7a35.jpg)
