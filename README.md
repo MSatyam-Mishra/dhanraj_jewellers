@@ -2,9 +2,9 @@
 
 A work in progress........................
 
-#A basic Jewellery Shop App
+# A basic Jewellery Shop App
 
-#Screenshots
+# Screenshots
 
 
 ![Screenshot_2023-01-23-00-37-09-589_com example dhanraj_jewellers](https://user-images.githubusercontent.com/12216430/213935434-bf00497c-2c6b-4a51-8ef4-32776ab7e579.jpg)
